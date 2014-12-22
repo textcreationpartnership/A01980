@@ -35,13 +35,17 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A recovery from apostacy Set out in a sermon preached in Stepny Church neere London at the receiving
+
+1. An advertiſement to the Reader.
+
 #####Body#####
 
-1. Hetherto of the generall conſideration of my Text, by handling the two oppoſite termes joyntly in their diſtinct times. I proceed now to the particular points ſeverally: each by it ſelfe.
+1. A RECOVERY FROM APOSTACY. Set forth in a Sermon Preached in Stepny Church at the receiving of a Penitent Renegado into the Church.
+
+    _ Hetherto of the generall conſideration of my Text, by handling the two oppoſite termes joyntly in their diſtinct times. I proceed now to the particular points ſeverally: each by it ſelfe.
 
 #####Back#####
-A recovery from apostacy Set out in a sermon preached in Stepny Church neere London at the receiving
+Recenſui concionem hanc cui titulus eſt [A recovery from Apoſtacy] nec in ea quicquam reperio quò mi
 **Types of content**
 
   * There are 4 **verse** lines!
